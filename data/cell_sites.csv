@@ -1,0 +1,41 @@
+cell_id,emirate,area,technology,bandwidth_mhz
+CELL_001,Abu Dhabi,Khalifa City,4G,20
+CELL_002,Sharjah,Muwaileh,5G,100
+CELL_003,Dubai,Downtown,4G,20
+CELL_004,Dubai,Jebel Ali,4G,20
+CELL_005,Sharjah,Al Majaz,5G,100
+CELL_006,Sharjah,Muwaileh,5G,100
+CELL_007,Dubai,Deira,4G,20
+CELL_008,Dubai,Deira,4G,20
+CELL_009,Dubai,Marina,4G,20
+CELL_010,Sharjah,Al Majaz,5G,100
+CELL_011,Sharjah,Muwaileh,4G,20
+CELL_012,Dubai,Marina,4G,20
+CELL_013,Abu Dhabi,Khalifa City,5G,100
+CELL_014,Dubai,Marina,5G,100
+CELL_015,Abu Dhabi,Khalifa City,5G,100
+CELL_016,Dubai,Deira,4G,20
+CELL_017,Sharjah,Muwaileh,4G,20
+CELL_018,Abu Dhabi,Corniche,5G,100
+CELL_019,Dubai,Marina,5G,100
+CELL_020,Abu Dhabi,Corniche,4G,20
+CELL_021,Dubai,Marina,5G,100
+CELL_022,Abu Dhabi,Khalifa City,4G,20
+CELL_023,Sharjah,Al Majaz,5G,100
+CELL_024,Abu Dhabi,Yas Island,5G,100
+CELL_025,Dubai,Downtown,5G,100
+CELL_026,Abu Dhabi,Khalifa City,4G,20
+CELL_027,Abu Dhabi,Corniche,4G,20
+CELL_028,Dubai,Deira,4G,20
+CELL_029,Dubai,Deira,4G,20
+CELL_030,Sharjah,Al Majaz,5G,100
+CELL_031,Dubai,Marina,5G,100
+CELL_032,Dubai,Marina,4G,20
+CELL_033,Dubai,Jebel Ali,4G,20
+CELL_034,Dubai,Marina,5G,100
+CELL_035,Abu Dhabi,Khalifa City,4G,20
+CELL_036,Abu Dhabi,Yas Island,5G,100
+CELL_037,Dubai,Downtown,4G,20
+CELL_038,Sharjah,Muwaileh,4G,20
+CELL_039,Abu Dhabi,Yas Island,4G,20
+CELL_040,Dubai,Jebel Ali,5G,100
